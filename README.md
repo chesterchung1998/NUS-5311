@@ -5,5 +5,5 @@ An in-depth machine learning project which studies the complex dynamics of earth
 - Detection of chaos within system using the Largest Lyapunov Exponent can be found in the MATLAB file named 'largest_lyapunov_exponent.m'.
 - Future state prediction of earthquakes using DMD can be found in the MATLAB file named 'state_prediction_dmd.m'.
 - Future state prediction of earthquakes using Neural Networks can be found in the MATLAB file named 'state_prediction_neural_networks.m'.
-- Dataset can be found in the file named 'DalZilioetal2020sim.nc'.
+- Input dataset of the project is not included in this repository.
 - The algorithms used and results derived in the project are thoroughly discussed in the report titled 'ME5311 Project Report.pdf'. 
